@@ -1,0 +1,17 @@
+@import "tailwindcss";
+/*  custom design */
+@theme{
+    --deepblue-500:#fee685
+   
+}
+.bgdeepblue{
+background-color: var(--deepblue-500);
+}
+.customcolor{
+color: var(--deepblue-500);
+}
+/* utility classes */
+@utility container {
+    
+    background:#456666;
+}
