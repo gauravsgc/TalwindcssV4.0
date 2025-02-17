@@ -15,3 +15,9 @@ color: var(--deepblue-500);
     
     background:#456666;
 }
+.learn{
+    @apply bg-amber-500 text-red-400 font-bold text-3xl;
+}
+.learn1{
+    @apply text-2xl bg-amber-500
+}

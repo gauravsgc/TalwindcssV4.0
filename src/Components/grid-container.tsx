@@ -51,6 +51,8 @@ It's particularly powerful when combined with other pseudo-class variants, for e
 </button>
 {/* OKLCH Color Palette Meaning
 OKLCH (O = Perceptually uniform, K = Color appearance, L = Lightness, C = Chroma, H = Hue) is a modern color space designed to be perceptually uniform and better suited for digital design. */}
+{/* <p className='learn'>Good morning</p> */}
+<p className='learn1'>hello</p>
     </>
   )
 }
